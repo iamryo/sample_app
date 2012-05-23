@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"have",
+				"have_link"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"pa",
+				"password_confirmation"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"gra",
+				"gravatar_url"
+			],
+			[
+				"grav",
+				"gravatar_id"
+			],
+			[
+				"valid",
+				"valid_address"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"con",
+				"contact_path"
+			],
+			[
+				"stories",
+				"stories"
+			],
+			[
+				"asser",
+				"assert_template"
+			],
+			[
+				"vote",
+				"votes_count"
+			],
+			[
+				"abb",
+				"abbcccddddeeeee"
+			],
+			[
+				"ab",
+				"ab"
+			],
+			[
+				"match",
+				"match"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ryanclark/Projects/sample_app/spec/models/user_spec.rb",
+			"settings":
+			{
+				"buffer_size": 3188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanclark/Projects/sample_app/app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanclark/Projects/sample_app/app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanclark/Projects/sample_app/app/views/users/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "user_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 2733,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanclark/Projects/sample_app/app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 900,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ryanclark/Projects/sample_app/app/helpers/sessions_helper.rb",
+			"settings":
+			{
+				"buffer_size": 569,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"FILE",
+				"FileDiffs: Menu"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ryanclark/Projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/Users/ryanclark/Projects/sample_app/Gemfile",
+		"/Users/ryanclark/Projects/sample_app/config/routes.rb",
+		"/Users/ryanclark/Projects/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/ryanclark/Projects/sample_app/spec/support/utilities.rb",
+		"/Users/ryanclark/Projects/sample_app/app/controllers/sessions_controller.rb",
+		"/var/folders/kw/pk9k15xd4q17m2t02_5sf_wc0000gn/T/sublime-sftp-browse-1337220761/CleverSketch/home/cleversk/public_html/Leaflet/README.md",
+		"/Users/ryanclark/Projects/sample_app/app/assets/javascripts/application.js",
+		"/Users/ryanclark/Projects/sample_app/app/controllers/users_controller.rb",
+		"/Users/ryanclark/Projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/ryanclark/Projects/sample_app/db/migrate/20120509183440_add_remember_token_to_users.rb",
+		"/var/folders/kw/pk9k15xd4q17m2t02_5sf_wc0000gn/T/sublime-sftp-browse-1336940325/CleverSketch/home/cleversk/public_html/map/index.html",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/CleverSketch",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/Users/ryanclark/Projects/sample_app/db/migrate/20120509182324_add_remember_token_to_user.rb",
+		"/Users/ryanclark/Projects/sample_app/Guardfile",
+		"/Users/ryanclark/Projects/sample_app/app/views/sessions/new.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/controllers/application_controller.rb",
+		"/Users/ryanclark/Projects/sample_app/app/views/users/new.html.erb",
+		"/Users/ryanclark/Projects/sample_app/config/environments/production.rb",
+		"/Users/ryanclark/Projects/sample_app/config/locales/en.yml",
+		"/Users/ryanclark/Projects/sample_app/app/views/users/show.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/helpers/users_helper.rb",
+		"/Users/ryanclark/Projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/ryanclark/Projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/ryanclark/Projects/sample_app/spec/factories.rb",
+		"/Users/ryanclark/Projects/sample_app/config/environments/test.rb",
+		"/Users/ryanclark/Projects/sample_app/db/migrate/20120503061914_add_password_digest_to_users.rb",
+		"/Users/ryanclark/Projects/sample_app/spec/models/user_spec.rb",
+		"/Users/ryanclark/Projects/sample_app/app/models/user.rb",
+		"/Users/ryanclark/.bash_history",
+		"/Users/ryanclark/Projects/sample_app/config/database.yml",
+		"/Users/ryanclark/Projects/sample_app/config/environments/development.rb",
+		"/Users/ryanclark/Projects/sample_app/spec/spec_helper.rb",
+		"/Users/ryanclark/Projects/sample_app/db/migrate/20120430233157_create_users.rb",
+		"/Users/ryanclark/Projects/sample_app/log/development.log",
+		"/Users/ryanclark/Projects/sample_app/config/initializers/session_store.rb",
+		"/Users/ryanclark/Projects/sample_app/db/migrate/20120502012234_add_index_to_users_email.rb",
+		"/Users/ryanclark/Projects/sample_app/db/schema.rb",
+		"/Users/ryanclark/.bash_profile",
+		"/Users/ryanclark/.bashrc",
+		"/Users/ryanclark/Projects/sample_app/PATH",
+		"/Users/ryanclark/Projects/sample_app/Gemlist",
+		"/Users/ryanclark/Projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/ryanclark/Projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/ryanclark/Projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/ryanclark/Projects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/ShellScript/htmltemplate",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/htmltemplate",
+		"/Users/ryanclark/Projects/sample_app/.gitignore",
+		"/Users/ryanclark/Projects/sample_app/README.rdoc",
+		"/Users/ryanclark/Projects/pure-stream-4253/app/controllers/application_controller.rb",
+		"/Users/ryanclark/Projects/pure-stream-4253/README.md",
+		"/Users/ryanclark/Projects/sample_app/public/hello.html",
+		"/Users/ryanclark/Projects/demo_app/app/models/user.rb",
+		"/Users/ryanclark/Projects/demo_app/app/models/micropost.rb",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ryanclark/Projects/first_app/Gemfile",
+		"/Users/ryanclark/Desktop/calendar.rb",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/ryanclark/Projects/Ge",
+		"/Users/ryanclark/Projects/resume/resume/.gitignore",
+		"/Users/ryanclark/Projects/shovell/test/functional/users_controller_test.rb",
+		"/Users/ryanclark/Projects/shovell/code-archive/chapter09/43-votes_controller_test.rb",
+		"/Users/ryanclark/Projects/shovell/test/functional/votes_controller_test.rb",
+		"/Users/ryanclark/Projects/shovell/test/unit/user_test.rb",
+		"/Users/ryanclark/Projects/shovell/test/unit/story_test.rb",
+		"/Users/ryanclark/Downloads/39-stories_controller_test.rb",
+		"/Users/ryanclark/Projects/shovell/test/functional/stories_controller_test.rb",
+		"/Users/ryanclark/Projects/resume/.gemrc",
+		"/Users/ryanclark/Projects/shovell/code-archive/chapter09/15-votes_controller.rb",
+		"/Users/ryanclark/Projects/shovell/test/fixtures/users.yml",
+		"/Users/ryanclark/Projects/shovell/test/fixtures/stories.yml",
+		"/Users/ryanclark/Projects/shovell/public/stylesheets/style.css",
+		"/Users/ryanclark/Projects/shovell/.gitignore",
+		"/Users/ryanclark/Projects/shovell/test/test_helper.rb",
+		"/Users/ryanclark/Projects/shovell/app/models/user.rb",
+		"/Users/ryanclark/Projects/shovell/test/unit/vote_test.rb",
+		"/Users/ryanclark/Projects/koans/about_symbols.rb",
+		"/Users/ryanclark/Projects/Dojo/index.html",
+		"/Users/ryanclark/Projects/Euler-Project/problem2.rb",
+		"/Users/ryanclark/Projects/jQuery/index.html",
+		"/Users/ryanclark/Projects/jQuery/style.css",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/selfInvokingFunction",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/hello",
+		"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/SelfInvokingFunction",
+		"/Users/ryanclark/Desktop/night.css",
+		"/Users/ryanclark/Desktop/day.css",
+		"/Users/ryanclark/Projects/koans/index.html",
+		"/Users/ryanclark/Projects/koans/about_sandwich_code.rb",
+		"/Users/ryanclark/Projects/koans/about_hashes.rb",
+		"/Users/ryanclark/Projects/koans/about_strings.rb",
+		"/Users/ryanclark/Projects/koans/about_array_assignment.rb",
+		"/Users/ryanclark/Projects/koans/about_arrays.rb",
+		"/Users/ryanclark/Projects/koans/about_objects.rb",
+		"/Users/ryanclark/Projects/koans/about_nil.rb",
+		"/Users/ryanclark/Projects/koans/Rakefile",
+		"/Users/ryanclark/Projects/koans/about_asserts.rb",
+		"/Users/ryanclark/Downloads/code-archive/shovell/app/controllers/application.rb",
+		"/Users/ryanclark/Projects/shovell/log/development.log",
+		"/Users/ryanclark/Projects/index.html",
+		"/Users/ryanclark/Projects/nodetube/app.js",
+		"/Users/ryanclark/Downloads/source/app.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			")",
+			"ri",
+			"white",
+			"__",
+			"___"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ryanclark/Projects/sample_app/spec/models/user_spec.rb",
+					"settings":
+					{
+						"buffer_size": 3188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3079,
+								3079
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ryanclark/Projects/sample_app/app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ryanclark/Projects/sample_app/app/views/layouts/_header.html.erb",
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								820,
+								820
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ryanclark/Projects/sample_app/app/views/users/edit.html.erb",
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "user_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1588,
+								1588
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 607.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/ryanclark/Projects/sample_app/app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/ryanclark/Projects/sample_app/app/helpers/sessions_helper.rb",
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"Gemfile"
+			],
+			[
+				"sess",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"users_c",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"utilit",
+				"spec/support/utilities.rb"
+			],
+			[
+				"utli",
+				"spec/support/utilities.rb"
+			],
+			[
+				"uesr_spe",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"clev",
+				"/Users/ryanclark/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/CleverSketch"
+			],
+			[
+				"sessionsn",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authen",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"conto",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"uers_",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"applic",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"heade",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sessio",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"guar",
+				"Guardfile"
+			],
+			[
+				"add_",
+				"db/migrate/20120509182324_add_remember_token_to_user.rb"
+			],
+			[
+				"appl",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"en.",
+				"config/locales/en.yml"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"contr",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"foo",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"users_",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"user_",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"add_p",
+				"db/migrate/20120503061914_add_password_digest_to_users.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"db/migra",
+				"db/migrate/20120502012234_add_index_to_users_email.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"html.",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"help",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"user_page",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"_foot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"_head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"stat",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"static_pages_co",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"spec",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"application.htm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rake",
+				"Rakefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}
